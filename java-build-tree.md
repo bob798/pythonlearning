@@ -13,4 +13,4 @@ return Tree.build(list, TestTypeEntity::getId,TestTypeEntity::getParentId);
 }
 ```
 
-### hutool tree
+### hutool tree 
